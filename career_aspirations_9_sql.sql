@@ -1,0 +1,1 @@
+select * from carrer_aspiration.carrer_aspirations_6_csv;
